@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cRyMRSz8/T9BWtq/tymQ0QHf7n27LEhnV4NWsZqEAtH/RS7cd2WMsq0+TV/ixOJ4oR3VPBkH82I0fEl8+SaKfg==",
+  "dgSpecHash": "TEqWpeXo9fVCzpHniURpJQPUqDdgiWoctxRH/3IIjpfo4ikmiEDSWkdSW44SGZ9GYLzyK2eeveKPYF5VfUZ6UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.25\\microsoft.netcore.app.host.win-x86.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
